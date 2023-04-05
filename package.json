@@ -10,8 +10,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@pinecone-database/pinecone": "0.0.12",
+    "@pinecone-database/pinecone": "^0.0.12",
     "axios": "^1.3.4",
+    "dotenv": "^16.0.3",
     "openai": "^3.2.1"
   }
 }
